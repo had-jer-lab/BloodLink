@@ -1,0 +1,21 @@
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+*.iml
+
+# Build files
+build/
+app/build/
+
+# APK files
+*.apk
+*.aab
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configuration
+secrets.properties
